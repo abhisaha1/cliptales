@@ -1,0 +1,2 @@
+# cliptales
+A wordpress theme
